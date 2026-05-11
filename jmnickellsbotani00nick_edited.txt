@@ -1,5 +1,5 @@
 ABELMOSCHUS ESCULENTUS. Okra. Bendee. Gombo leaves. Musk leaves. Musk leaf plant. Amber seed. Ambrette. Ambrette grains. Ochra. Musk seed. 
-Capsules. Muc. dem. edi.
+Capsules. muc. dem. edi.
 
 ABELMOSCHUS MOSCHATUS. Musk Seed. Musk seed plant. Musk Mallow. Syrian Mallow. Rose Mallow. Water Mallow. 
 Seed. cor. sto. ner. pun. 
@@ -32,7 +32,7 @@ ABIES TAXIFOLIA. European silver fir tree.
 Yields. Strasburg turpentine. 
 
 ABRUS PRECATORIUS. Love Pea. Wild liquorice. Licorice bush. Crabs' eyes. Indian liquorice. Jumble beads. Liquorice buds. Red bean. Liquorice Bush. 
-Root and Leaves. Pec. muc. dem.
+Root and Leaves. pec. muc. dem.
 
 ABUTA RUFESCENS. White Pareira brava. White pareira. Brown pareira brava. 
 Root. diu. 
@@ -55,7 +55,7 @@ Yields. Morocco gum arabic.
 ACACIA CATECHU. Catechu tree. Terra Japonica. Catechu. Cutch. Gambeer. Japonica. Gambir. Black China Catechu. Gambier. Bengal red Catechu. 
 Yields. Gum Catechu. 
 
-ACACIA DECURRENS. Biack wattle tree. Australian gum. Wattle gum. Australian acacia. Wattle tree. 
+ACACIA DECURRENS. Black wattle tree. Australian gum. Wattle gum. Australian acacia. Wattle tree. 
 Yields. Australian gum. 
 
 ACACIA FARNESIANA. Sponge tree. Cassia flower tree. Cassie. Wattle. Cassie flower. 
@@ -292,13 +292,13 @@ ALISMA PLANTAGO. Water Plantain. Mad-dog-weed.
 Leaves. ves. diu. lit.
 
 ALLIARIA OFFICINALIS. Hedge Garlic. Jack by the hedge.
-Plant. er det. Seed. acr. lit. 
+Plant. a-sco. det. Seed. acr. lit. 
 
 ALLIUM ASCOLONICUM. Shaliot. 
 Bulb. edi. diu. con. 
 
 ALLIUM CANADENSE. Meadow Garlic. 
-Bulb. as. Garlic.
+Bulb. as Garlic.
 
 ALLIUM CEPA. Onion. Common onion. Cepa 
 Bulb. sti. diu. ant. emo. mat. 
@@ -1405,7 +1405,7 @@ Flower. eme. pec. orn.
 CAMPANULA LATIFOLIA. Haskwort. 
 Flower. eme. pec. orn. 
 
-CAMPANULA ROTUNDIFOLIA. HMarebell. Bellfiower. 
+CAMPANULA ROTUNDIFOLIA. Harebell. Bellflower. 
 Plant. eme. pec. orn.  
 
 GAMPANULA TRACHELIUM. Canterberry Bell. 
@@ -1958,7 +1958,7 @@ CLEMATIS VIORNA. Leather Flower. (Variety C. Virginica.)
 Leaves and Flowers. acr. ves. sti. diu. 
 
 CLEMATIS VIRGINICA. Virgin's Bower. Traveler's Joy. Common Virgin's Bower. 
-Leaves and Fiowers. acr. ves. sti. diu. sud. 
+Leaves and Flowers. acr. ves. sti. diu. sud. 
 
 CLEMATIS VITALBA. Traveler's Joy. Ladies' Bower. Old Man's Beard. Smoke Wood. Virgin's Bower. White Vine. Wild Vine. (Variety C. Virginica.) 
 Leaves and Flowers. cau. opt. Used in Itch. 
@@ -2058,7 +2058,7 @@ Leaves. feb. ton.
 COMARUM PALUSTRE. Marsh Five Finger. 
 Herb. ast. feb. ton.
 
-COMMELINA ANGUSTIFOLIA. Day Fiower. 
+COMMELINA ANGUSTIFOLIA. Day Flower. 
 Plant. exp. emo. ano. Root. feb. 
 
 COMOCLADIA DENTATA. Bastard Brazil Wood. 
@@ -2468,7 +2468,7 @@ Root. aro. pec. Seed. acr. edi.
 CYTISUS LABURNUM. Laburnum Tree. Golden Chain. 
 Leaves. diu. res. Seed and Bark. poi. 
 
-CYTISUS SCOPARIUS. Broom Herb. Common Broom. Irish Broom. Broom Fiowers. 
+CYTISUS SCOPARIUS. Broom Herb. Common Broom. Irish Broom. Broom Flowers. 
 Tops. diu. cat. Seed. eme. cat. 
 
 DAHLIA VARIABILIS. Dahlia. Common Dahlia. 

@@ -2,7 +2,7 @@ async function init(){
   const res = await fetch('entries.json');
   const entries = await res.json();
 
-  const options = { keys: ['botanical', 'english', 'raw'], threshold: 0.4, includeScore: true };
+  const options = { keys: ['botanical', 'english', 'properties', 'raw'], threshold: 0.4, includeScore: true };
   const fuse = new Fuse(entries, options);
 
   const searchInput = document.getElementById('search');
@@ -26,8 +26,9 @@ async function init(){
   function showDetail(item){
     detailDiv.classList.remove('hidden');
     detailDiv.innerHTML = `<h2>${escapeHtml(item.botanical)}</h2>` +
-                          (item.english.length ? `<p><em>Common: ${escapeHtml(item.english.join(', '))}</em></p>` : '') +
-                          (item.parts.length ? `<p><strong>Parts:</strong> ${escapeHtml(item.parts.join(', '))}</p>` : '') +
+                          (item.english && item.english.length ? `<p><em>Common: ${escapeHtml(item.english.join(', '))}</em></p>` : '') +
+                          (item.parts && item.parts.length ? `<p><strong>Parts:</strong> ${escapeHtml(item.parts.join(', '))}</p>` : '') +
+                          (item.properties && item.properties.length ? `<p><strong>Properties:</strong> ${escapeHtml(item.properties.join(', '))}</p>` : '') +
                           `<pre>${escapeHtml(item.raw)}</pre>` +
                           `<button id="close">Close</button>`;
     document.getElementById('close').addEventListener('click', ()=> { detailDiv.classList.add('hidden'); });
