@@ -15,8 +15,27 @@ async function init(){
     const ul = document.createElement('ul');
     list.slice(0,50).forEach(item => {
       const li = document.createElement('li');
+      // show english names if available; otherwise show a 50-char preview from the first raw line after the botanical name
+      function previewText(it){
+        if (it.english && it.english.length) return it.english.join(', ');
+        const firstLine = (it.raw || '').split('\n')[0] || '';
+        // remove leading botanical name if present
+        try{
+          const botanicalSafe = it.botanical.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          const botanicalRegex = new RegExp('^' + botanicalSafe, 'i');
+          let after = firstLine.replace(botanicalRegex, '');
+          after = after.replace(/^[\s\-—–:;\.,]+/, '');
+          after = after.trim();
+          if (!after) return '(no preview)';
+          return after.length > 50 ? after.slice(0,50) + '…' : after;
+        }catch(e){
+          const t = firstLine.replace(/^[\s\-—–:;\.,]+/, '').trim();
+          return t.length > 50 ? t.slice(0,50) + '…' : (t || '(no preview)');
+        }
+      }
+      const preview = previewText(item.item);
       li.innerHTML = `<strong>${escapeHtml(item.item.botanical)}</strong>` +
-                     (item.item.english && item.item.english.length ? ` — ${escapeHtml(item.item.english.join(', '))}` : '');
+                     (item.item.english && item.item.english.length ? ` — ${escapeHtml(item.item.english.join(', '))}` : ` — ${escapeHtml(preview)}`);
       li.addEventListener('click', ()=> showDetail(item.item));
       ul.appendChild(li);
     });
