@@ -16,8 +16,8 @@ Restoring the German names to the entries from the German name index in the orig
 
 The application:
 
-- `parser/generate_json.js` — Node.js parser that reads jmnickellsbotani00nick_edited.txt, splits entries on blank lines, extracts fields and maps medical-property abbreviations to full names (propertiesMap), and writes web/entries.json.
-- `web/index.html`, `web/app.js`, `web/styles.css` — a small static frontend that loads entries.json and provides client-side full-text search using Fuse.js; shows botanical and common names, parts, and expanded property names.
+- `parser/generate_json.js` — Node.js parser that reads jmnickellsbotani00nick_edited.txt, splits entries on blank lines, extracts fields and maps medical-property abbreviations to full names (`propertiesMap`), and writes `web/entries.json`.
+- `web/index.html`, `web/app.js`, `web/styles.css` — a small static frontend that loads entries.json and provides client-side full-text search using [Fuse.js](https://www.fusejs.io); shows botanical and common names, parts, and expanded property names.
 - `package.json` with a "build" script that runs the parser and generates `web/entries.json`.
 
 Build & preview (local)

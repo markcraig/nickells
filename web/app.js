@@ -2,7 +2,7 @@ async function init(){
   const res = await fetch('entries.json');
   const entries = await res.json();
 
-  const options = { keys: ['botanical', 'english', 'properties', 'raw'], threshold: 0.4, includeScore: true };
+  const options = { keys: ['botanical', 'english', 'properties', 'raw'], threshold: 0.2, distance: 500, includeScore: true };
   const fuse = new Fuse(entries, options);
 
   const searchInput = document.getElementById('search');

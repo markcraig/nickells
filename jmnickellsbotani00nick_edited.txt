@@ -2139,7 +2139,7 @@ Root. cat.
 CONYZA BIFOLIATA. Silk Seed Aster. 
 Plant. diu. 
 
-CONYZA MARILANDICA. Piowmanswort. Fleabane. 
+CONYZA MARILANDICA. Plowmanswort. Fleabane. 
 Plant. sti. ner. pec. bal. 
 
 CONYZA SQUARROSA. Marsh Fleabane. 
@@ -2363,7 +2363,7 @@ Seed. ver. Oil. In Tapeworm. diu.
 CUMINUM CYMINUM. Cumin Seed. Cumin Plant. Sweet Cummin. Cummin Seed. Cumin. 
 Seed. aro. sti. car. Veterinary. 
 
-CUNILA MARIANA. Dittamy. Stonemint. Mountain Dittany. Wild Basil. American Dittany. Sweet Horsemint. High Pennyroyal. American Mountain Dittany. 
+CUNILA MARIANA. Dittany. Stonemint. Mountain Dittany. Wild Basil. American Dittany. Sweet Horsemint. High Pennyroyal. American Mountain Dittany. 
 Herb. sti. ner. sud. ton. vul.
 
 CUPHEA VWISCOSISSIMA. Wax Bush.
