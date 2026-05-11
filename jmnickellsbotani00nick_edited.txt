@@ -4,7 +4,7 @@ Capsules. muc. dem. edi.
 ABELMOSCHUS MOSCHATUS. Musk Seed. Musk seed plant. Musk Mallow. Syrian Mallow. Rose Mallow. Water Mallow. 
 Seed. cor. sto. ner. pun. 
 
-ABIES BAUSAMEA. Fir balsam tree. Balm of Gilead fir. Balsam Spruce. Hemlock fir. Balsam poplar. Balsam firtree. Fir tree. American silver fir. Canada Balsam tree. 
+ABIES BAUSAMEA. Fir balsam tree. Balm of Gilead fir. Balsam Spruce. Hemlock fir. Balsam poplar. Balsam fir tree. Fir tree. American silver fir. Canada Balsam tree. 
 Bark. sti. diu. ant. det. vul. 
 
 ABIES CANADENSIS. Hemlock Spruce. Canada pitch tree. Hemlock tree. Hemlock gum tree. Hemlock pitch tree. Weeping Spruce. Pine tops. Tanner's bark. Hemlock bark. Hemlock leaves. 
@@ -16,7 +16,7 @@ Bark. diu. a-sco. emm.
 ABIES EXCELSA. Norway Pine. Norway spruce fir. Thus tree. American Frankincense. Barras. Burgundy pitch tree. Galipot tree. Norway Spruce. 
 Yields. Burgundy pitch.
 
-ABIES LARIX. Larch. European Larch. Orenburg gum. Manna of Briancon. Venice turpentine tree. 
+ABIES LARIX. Larch. European Larch. Orenburg gum. Manna of Briançon. Venice turpentine tree. 
 Yields. Venice turpentine. 
 
 ABIES NIGRA. Black Spruce. Double Spruce. Spruce gum tree. Chewing gum tree. 
@@ -25,7 +25,7 @@ Bark. alt. diu. sti.
 ABIES PECTINATA. Red Spruce. 
 Bark. diu. a-sco. emm. 
 
-ABIES PICEA. Silver firtree. Silver fir. Silver pine. Common Fir. Strasburg Pine. Galipot tree. Burgundy pitch tree. Thus tree. Frankincense tree. 
+ABIES PICEA. Silver fir tree. Silver fir. Silver pine. Common Fir. Strasburg Pine. Galipot tree. Burgundy pitch tree. Thus tree. Frankincense tree. 
 Yields. Burgundy Pitch. 
 
 ABIES TAXIFOLIA. European silver fir tree. 
@@ -67,7 +67,7 @@ Yields. South African gum arabic.
 ACACIA JUREMA. Adstringens bark. 
 Bark. ast.
 
-ACACIA WERA. Gum arabic tree. Egyptian thorn. Acacia. Cape gum. Neb-neb (the pods). 
+ACACIA VERA. Gum arabic tree. Egyptian thorn. Acacia. Cape gum. Neb-neb (the pods). 
 Yields. Gum arabic.
 
 ACALYPHA VIRGINIANA. Mercury Weed. 
@@ -76,7 +76,7 @@ Plant. exp. diu.
 ACANTHOUS SPINOSUS. Bear's breech. 
 Herb. diu. ast.
 
-ACERATES VWERIDIFLORA. Green milkweed. 
+ACERATES VERIDIFLORA. Green milkweed. 
 Plant. car. ton. diu. a-spa. 
 
 ACER DASYCARPUM. Silver maple. White maple.
@@ -93,7 +93,7 @@ Bark. ast. Leaves. a-eme.
 ACER PSEUDO-PLATINUS. Sycamore. 
 Bark. ast. opt. vul. 
 
-ACER RUBRUM. Red Maple. Striped Maple. Whistle wood. Swampmaple. Soft maple. False dogwood. 
+ACER RUBRUM. Red Maple. Striped Maple. Whistle wood. Swamp maple. Soft maple. False dogwood. 
 Bark. ast. opt. 
 
 ACER SACCHARINUM. Maple Sugar Tree. Maple rock. Bird's-eye maple. Sweet tree. Rock maple. 
@@ -133,7 +133,7 @@ Root. poi. eat. ant.
 
 ACONITUM ARCTOPHONUM. Bearbane. Aconite. 
 
-ACONITUM CAMMARUM. Variety Aconitum napellus. 
+ACONITUM CAMMARUM. Variety. Aconitum napellus. 
 Root. ano. nar. irr. 
 
 ACONITUM FEROX. Indian Aconite. Bish. Atwisha. Bikh root. Nepal Aconite. (Variety. Aconitum napellus.) 
@@ -675,7 +675,7 @@ Plant. a-sco.
 ARABIS THATIANA. Mouse-ear Cress. Rock Cress. 
 Plant. pun. a-sco.
 
-ARACHIS HYPOGZA. Peanut. Ground Nut. Haugh Nut. Yer Nut. Earth Nut. 
+ARACHIS HYPOGÆA. Peanut. Ground Nut. Haugh Nut. Yer Nut. Earth Nut. 
 Seed. edi. nut. cat. 
 
 ARALIA HISPIDA. Dwarf Elder. Wild Elder. Bristlestem Sarsaparilla. Hyeble. 
@@ -1578,7 +1578,7 @@ Bark. ast. ton. feb. Leaves. ast.
 CASTANA PUMILA. Chinquapin. 
 Bark. ast. ton. feb. 
 
-CASTANA WESUA. European Chestnut. Eubzan Nut. Sardian Nut. 
+CASTANA VESCA. European Chestnut. Eubæan Nut. Sardian Nut. 
 Bark. ast. ton. 
 
 CASTANA VULGARIS. Spanish Chestnut. 
@@ -2031,13 +2031,13 @@ Nuts. sti. ner.
 COLCHICUM AUTUMNALE. Colchicum. Meadow Saffron. Naked Ladies. Upstart. 
 Root and Seed. acr. nar. poi. sed. cat. 
 
-COLCHICUMVARIEGATUM. Chequer Flower. Hermodactyle 
+COLCHICUM VARIEGATUM. Chequer Flower. Hermodactyle. 
 Yields. Hermodactyle. 
 
 COLLINSONIA CANADENSIS. Collinsonia. Stone Root. Ox Balm. Hardhack. Horse Weed. Heal All. Rich Leaf. Rich Weed. KnobGrass. Knob Root. Horse Balm. Knot Root. 
 Root. diu. irr. exp. Leaves. vul. 
 
-COLLINSONIA WERNA. Collinsonia Cordata. Collinsonia Ovata. Collinsonia Scraba. 
+COLLINSONIA VERNA. Collinsonia Cordata. Collinsonia Ovata. Collinsonia Scraba. 
 Variety. Collinsonia Canadensis. 
 
 COLOCASIA ESCULENTA. Tara. Yam Root. Black Caco. Tara Yam Root.
@@ -2276,19 +2276,19 @@ Plant. ast. sty.
 CRASSULA TETRAGONA. South African Crassula. 
 Plant. ast. in Diarrhea. 
 
-CRATAZGUS ARIA. White Bezam Tree. 
+CRATÆGUS ARIA. White Beam Tree. 
 Leaves. pec. Fruit. ast. edi. 
 
-CRATZEGUS COCCINEA. Hawthorn. 
+CRATÆGUS COCCINEA. Hawthorn. 
 Bark and Leaves. ton. exp. Fruit. edi. ton. 
 
-CRATZGUS CRUS-GALLI. White Cockspur Thorn. White Thorn. 
+CRATÆGUS CRUS-GALLI. White Cockspur Thorn. White Thorn. 
 Leaves. pec. 
 
-CRATZEGUS OXYACANTHUS. English Hawthorn. Noble Epine. Quickset. Thorn Apple Tree. May Tree. White Thorn. Hawthorn. 
+CRATÆGUS OXYACANTHUS. English Hawthorn. Noble Epine. Quickset. Thorn Apple Tree. May Tree. White Thorn. Hawthorn. 
 Fruit. Called Haws. ast. 
 
-CRATZVA GYNANDRA. Garlic Pear. 
+CRATÆVA GYNANDRA. Garlic Pear. 
 Bark of Root. Said to blister. 
 
 CRINIUM AMERICANUM. Jonquil. Louisiana Squill. 
@@ -2399,7 +2399,7 @@ Plant. ton. ast. alt. a-per.
 CUSCUTA EPITHYMUM. Dodder of Thym 
 Plant. pun. cat. fet. 
 
-CUSCUTA EUROPZA. Greater Dodder. Hell Weed. Flax Vine. Flax Drop. Flax Weed. Strangle Tare. 
+CUSCUTA EUROPÆA. Greater Dodder. Hell Weed. Flax Vine. Flax Drop. Flax Weed. Strangle Tare. 
 Juice. pur. deo. For Itch.
 
 CUSCUTA GLOMERATA. American Bedder. 
@@ -2558,7 +2558,7 @@ As Digitalis Purpurea.
 DIGITALIS PURPUREA. Foxglove. Fairy Gloves. Dog's Finger. Digitalis. Dead Mens Bells. Purple Foxglove. Ladies' Glove. Fairy Fingers. Folks' Glove. Finger Flower. American Foxglove. 
 Leaves. irr. nar. poi. sed. diu. a-epi. 
 
-DIONZA MUSCIPULA. Venus Flytrap. 
+DIONÆA MUSCIPULA. Venus Flytrap. 
 Plant. ins. 
 
 DIOSCOREA BATATAS. Chinese Yam. 
@@ -2680,7 +2680,7 @@ Berries. edi. Dyes Black.
 EPHEDRA AMERICANA. Pingo Pingo. 
 Leaves. sty. 
 
-EPIGZA REPENS. Trailing Arbutus. Winter Pink. Gravel Weed. Mountain Pink. Ground Laurel. May Flower. Gravel Plant. 
+EPIGÆA REPENS. Trailing Arbutus. Winter Pink. Gravel Weed. Mountain Pink. Ground Laurel. May Flower. Gravel Plant. 
 Leaves. diu. ast. As Uva Ursi. 
 
 EPILOBIUM ANGUSTIFOLIUM. Willow Herb. Wickopy. Rose Bay. Wickup. Mares Tail. Wickopy Root. Wickopy Herb. Flowering Willow. Indian Wickopy. 
@@ -2771,7 +2771,7 @@ Herb. ver. sto.
 ERYTHRÆA ACAULIS. Rejagnou. 
 Root. Dyes Yellow.
 
-ERYTHRZA CHILENSIS. Centaury of Chili. 
+ERYTHRÆA CHILENSIS. Centaury of Chili. 
 Plant. A mild tonic. 
 
 ERYTHRINA HERBACEA. Coral Bloom. 
@@ -2925,13 +2925,13 @@ Bark. feb. eme. bit. aro.
 EXOSTEMMA CORIACEUM. St. Domingo Bark. 
 Bark. As Cinchona.
 
-EXOSTEMMA FLORIBUNDA. St. Lucia Bark. Caribzan Bark. 
+EXOSTEMMA FLORIBUNDA. St. Lucia Bark. Caribæan Bark. 
 Bark. dra. eme. pur. 
 
 EXOSTEMMA PERUVIANA. Bicolorata Bark. 
 Bark. bit. nau. ton. 
 
-EXOSTEMMA SOUZANUM. Quinguinia de Plantri. 
+EXOSTEMMA SOUZANUM. Quinguinia de piantri. 
 Bark. bitter feb.
 
 EXOSTEMMA TRIFLORA. Jamaica Bark. 
@@ -2961,7 +2961,7 @@ Gum-re. sti. exp. mat. res.
 FICUS CARICA. Fig Tree.
 Fruit. lax. dem. mat. 
 
-FICUS INDICA. Banyan Tree. Indian is. Tree. 
+FICUS INDICA. Banyan Tree. Indian Fig Tree. 
 Yields Lac and India Rubber. 
 
 FICUS RELIGIOSA. Sacred Fig. 
@@ -3051,7 +3051,7 @@ Herb. diu. ape. ref.
 GALIUM ASPRELLUM. Pointea Cleavers. 
 As Galium Aparine. 
 
-GALIUM CIRCZZANS. Wild Liquorice. 
+GALIUM CIRCÆZANS. Wild Liquorice. 
 Herb. dem. diu. 
 
 GALLIUM CRUCCIATUM. Maywort. Crosswort. Cross Cleavers. Golden Mugweed. 
@@ -3430,7 +3430,7 @@ HEUCHERA RICHARDSONII. Cree Indian Sanicle.
 Root. ast. vul. sty. 
 
 HIBISCUS PALUSTRIS. Marsh Hibiscus. 
-Analogous to Althza Officinalis. 
+Analogous to Althæa Officinalis. 
 
 HIBISCUS POPULEUS. Balimbago. 
 Root. eme. Juice. As Gamboge. 
@@ -3649,7 +3649,7 @@ Plant and Flower. pur. sti. cep.
 IPOMÆA SIMULANS. Tampico Jalap. 
 Root. dra. diu. 
 
-IRIDZA EDULIS. Red Dulse. (A Seaweed.)
+IRIDÆA EDULIS. Red Dulse. (A Seaweed.)
 Plant. edi. ant. sal. 
 
 IRIS FLORENTINA. Florentine Orris. Orris Root. Issue Peas. Iris. Issue Peas Artificial. 
@@ -3943,7 +3943,7 @@ Plant. pun. Seed. Poison Fish.
 LEPIDIUM SATIVUM. Pepper Grass. Tongue Grass. American Water Cress. Pepperwort. Pepper Cress. Cress. Garden Pepper Cress. Sauce Alone. Garden Cress. Poor Man's Pepper. 
 Plant. sad. Seed. a-sco. sti. ape. 
 
-LEPIDIUM WIRGEINICA. Pepper Cress. Wild Pepper Cress. American Water Cress. 
+LEPIDIUM VIRGINICA. Pepper Cress. Wild Pepper Cress. American Water Cress. 
 Leaves. pun. diu. alt. a-sco. 
 
 LEPTANDRA VIRGINICA. Leptandra. Oxaddody. Purple Leptandra. Whorlywort. Culver's Physic. Tall Speedwell. Blackroot. Culver's Root. Tall Veronica. Brinton Root. Bowman's Root. Physic Root. Hini. Beaumont Root. Quitel. 
@@ -4197,7 +4197,7 @@ Herb. vul. a-sco. ast.
 LYSIMACHIA QUADRIFOLIA. Yellow Baim. Crosswort. 
 Herb. ast. sto. a-per. exp. 
 
-LYSIMACHIA WULGARIS. Yellow Loose Strife. Loose Strife. Yellow Willow. Yellow Willow Herb. 
+LYSIMACHIA VULGARIS. Yellow Loose Strife. Loose Strife. Yellow Willow. Yellow Willow Herb. 
 Herb. ast. exp. 
 
 LYTHRUM ALATUM. Milk Willow. Loose Strife. 
@@ -4247,7 +4247,7 @@ MALPIGHIA MOURELLA. A Cayenne Shrub.
 Bark. feb. In Diarrhœa. 
 
 MALVA ALCEA. Vervain Mallow. 
-Root. As Althza Officinalis. 
+Root. As Althæa Officinalis. 
 
 MALVA ROTUNDIFOLIA. Low Mallow. Cheese Plant. Malva Flowers Small. Cheeses. Blue Mallows. Mallow Commune. Dwarf Mallow. Common Low Mallow. 
 Plant. muc. diu. Flowers. pec. (Analogous to Malva Sylvestris.)
@@ -6548,7 +6548,7 @@ SPIRÆA HYPERICIFOLIA. May Wreath.
 Flower. ast. ton. 
 
 SPIRÆA OPULIFOLIA. Nine Bark. 
-Plant. (Analogous to Spireza Tomentosa.) 
+Plant. (Analogous to Spireæa Tomentosa.) 
 
 SPIRÆA TOMENTOSA. Hardhack. Horse Weed. Rosey Bush. Silver Leaf. Meadowsweet. White Leaf. Steeple Bush. Silver Weed. White Cap. Sweet Meadow. 
 Plant. ast. ton. vul. 
@@ -6890,7 +6890,7 @@ Seed. far. An article of food.
 
 TREMELLA NOSTOC. Will-o'-the-wisp. 
 
-TRIENTALIS EUROPZA. Chick Wintergreen. Wintergreen Chickweed. 
+TRIENTALIS EUROPÆA. Chick Wintergreen. Wintergreen Chickweed. 
 
 TRICERASTES GLOMERATA. Durango Root. 
 Fungus on dead Trees. 
@@ -7023,7 +7023,7 @@ UVULARIA PERFOLIATA. Bellwort. Mohawk Weed.
 Plant. ton. dem. ner. ale. her. 
 
 VACCINIUM ARBOREUM. Farkleberry. 
-Bark and Fruit. ast. In Apthza. 
+Bark and Fruit. ast. In Apthæa. 
 
 VACCINIUM CORYMBOSUM. Giant Whortleberry. 
 Fruit. esc. diu. Bark. diu. Leaves. ast. 

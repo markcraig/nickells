@@ -46,7 +46,7 @@
       "Detergent",
       "Vulnerary"
     ],
-    "raw": "ABIES BAUSAMEA. Fir balsam tree. Balm of Gilead fir. Balsam Spruce. Hemlock fir. Balsam poplar. Balsam firtree. Fir tree. American silver fir. Canada Balsam tree. \nBark. sti. diu. ant. det. vul.",
+    "raw": "ABIES BAUSAMEA. Fir balsam tree. Balm of Gilead fir. Balsam Spruce. Hemlock fir. Balsam poplar. Balsam fir tree. Fir tree. American silver fir. Canada Balsam tree. \nBark. sti. diu. ant. det. vul.",
     "id": "abies-bausamea",
     "index": 3
   },
@@ -95,7 +95,7 @@
     "english": [],
     "parts": [],
     "properties": [],
-    "raw": "ABIES LARIX. Larch. European Larch. Orenburg gum. Manna of Briancon. Venice turpentine tree. \nYields. Venice turpentine.",
+    "raw": "ABIES LARIX. Larch. European Larch. Orenburg gum. Manna of Briançon. Venice turpentine tree. \nYields. Venice turpentine.",
     "id": "abies-larix",
     "index": 7
   },
@@ -133,7 +133,7 @@
     "english": [],
     "parts": [],
     "properties": [],
-    "raw": "ABIES PICEA. Silver firtree. Silver fir. Silver pine. Common Fir. Strasburg Pine. Galipot tree. Burgundy pitch tree. Thus tree. Frankincense tree. \nYields. Burgundy Pitch.",
+    "raw": "ABIES PICEA. Silver fir tree. Silver fir. Silver pine. Common Fir. Strasburg Pine. Galipot tree. Burgundy pitch tree. Thus tree. Frankincense tree. \nYields. Burgundy Pitch.",
     "id": "abies-picea",
     "index": 10
   },
@@ -287,14 +287,14 @@
     "index": 23
   },
   {
-    "botanical": "ACACIA WERA",
+    "botanical": "ACACIA VERA",
     "english": [
       "the pods"
     ],
     "parts": [],
     "properties": [],
-    "raw": "ACACIA WERA. Gum arabic tree. Egyptian thorn. Acacia. Cape gum. Neb-neb (the pods). \nYields. Gum arabic.",
-    "id": "acacia-wera",
+    "raw": "ACACIA VERA. Gum arabic tree. Egyptian thorn. Acacia. Cape gum. Neb-neb (the pods). \nYields. Gum arabic.",
+    "id": "acacia-vera",
     "index": 24
   },
   {
@@ -324,7 +324,7 @@
     "index": 26
   },
   {
-    "botanical": "ACERATES VWERIDIFLORA",
+    "botanical": "ACERATES VERIDIFLORA",
     "english": [],
     "parts": [],
     "properties": [
@@ -333,8 +333,8 @@
       "Diuretic",
       "Anti-spasmotic"
     ],
-    "raw": "ACERATES VWERIDIFLORA. Green milkweed. \nPlant. car. ton. diu. a-spa.",
-    "id": "acerates-vweridiflora",
+    "raw": "ACERATES VERIDIFLORA. Green milkweed. \nPlant. car. ton. diu. a-spa.",
+    "id": "acerates-veridiflora",
     "index": 27
   },
   {
@@ -414,7 +414,7 @@
       "Astringent",
       "Opthalmicum"
     ],
-    "raw": "ACER RUBRUM. Red Maple. Striped Maple. Whistle wood. Swampmaple. Soft maple. False dogwood. \nBark. ast. opt.",
+    "raw": "ACER RUBRUM. Red Maple. Striped Maple. Whistle wood. Swamp maple. Soft maple. False dogwood. \nBark. ast. opt.",
     "id": "acer-rubrum",
     "index": 33
   },
@@ -604,7 +604,7 @@
       "Narcotic",
       "Irritant"
     ],
-    "raw": "ACONITUM CAMMARUM. Variety Aconitum napellus. \nRoot. ano. nar. irr.",
+    "raw": "ACONITUM CAMMARUM. Variety. Aconitum napellus. \nRoot. ano. nar. irr.",
     "id": "aconitum-cammarum",
     "index": 47
   },
@@ -3073,7 +3073,7 @@
     "index": 225
   },
   {
-    "botanical": "ARACHIS HYPOGZA",
+    "botanical": "ARACHIS HYPOGÆA",
     "english": [],
     "parts": [
       "seed"
@@ -3082,8 +3082,8 @@
       "Nutritious",
       "Cathartic"
     ],
-    "raw": "ARACHIS HYPOGZA. Peanut. Ground Nut. Haugh Nut. Yer Nut. Earth Nut. \nSeed. edi. nut. cat.",
-    "id": "arachis-hypogza",
+    "raw": "ARACHIS HYPOGÆA. Peanut. Ground Nut. Haugh Nut. Yer Nut. Earth Nut. \nSeed. edi. nut. cat.",
+    "id": "arachis-hypog-a",
     "index": 226
   },
   {
@@ -7226,7 +7226,7 @@
     "index": 530
   },
   {
-    "botanical": "CASTANA WESUA",
+    "botanical": "CASTANA VESCA",
     "english": [],
     "parts": [
       "bark"
@@ -7236,8 +7236,8 @@
       "Astringent",
       "Tonic"
     ],
-    "raw": "CASTANA WESUA. European Chestnut. Eubzan Nut. Sardian Nut. \nBark. ast. ton.",
-    "id": "castana-wesua",
+    "raw": "CASTANA VESCA. European Chestnut. Eubæan Nut. Sardian Nut. \nBark. ast. ton.",
+    "id": "castana-vesca",
     "index": 531
   },
   {
@@ -9332,14 +9332,14 @@
     "index": 683
   },
   {
-    "botanical": "COLCHICUMVARIEGATUM",
+    "botanical": "COLCHICUM VARIEGATUM",
     "english": [],
     "parts": [
       "flower"
     ],
     "properties": [],
-    "raw": "COLCHICUMVARIEGATUM. Chequer Flower. Hermodactyle \nYields. Hermodactyle.",
-    "id": "colchicumvariegatum",
+    "raw": "COLCHICUM VARIEGATUM. Chequer Flower. Hermodactyle. \nYields. Hermodactyle.",
+    "id": "colchicum-variegatum",
     "index": 684
   },
   {
@@ -9361,12 +9361,12 @@
     "index": 685
   },
   {
-    "botanical": "COLLINSONIA WERNA",
+    "botanical": "COLLINSONIA VERNA",
     "english": [],
     "parts": [],
     "properties": [],
-    "raw": "COLLINSONIA WERNA. Collinsonia Cordata. Collinsonia Ovata. Collinsonia Scraba. \nVariety. Collinsonia Canadensis.",
-    "id": "collinsonia-werna",
+    "raw": "COLLINSONIA VERNA. Collinsonia Cordata. Collinsonia Ovata. Collinsonia Scraba. \nVariety. Collinsonia Canadensis.",
+    "id": "collinsonia-verna",
     "index": 686
   },
   {
@@ -9830,7 +9830,7 @@
       "Pectoral",
       "Balsamic"
     ],
-    "raw": "CONYZA MARILANDICA. Piowmanswort. Fleabane. \nPlant. sti. ner. pec. bal.",
+    "raw": "CONYZA MARILANDICA. Plowmanswort. Fleabane. \nPlant. sti. ner. pec. bal.",
     "id": "conyza-marilandica",
     "index": 719
   },
@@ -10462,7 +10462,7 @@
     "index": 764
   },
   {
-    "botanical": "CRATAZGUS ARIA",
+    "botanical": "CRATÆGUS ARIA",
     "english": [],
     "parts": [
       "leaves",
@@ -10472,12 +10472,12 @@
       "Pectoral",
       "Astringent"
     ],
-    "raw": "CRATAZGUS ARIA. White Bezam Tree. \nLeaves. pec. Fruit. ast. edi.",
-    "id": "cratazgus-aria",
+    "raw": "CRATÆGUS ARIA. White Beam Tree. \nLeaves. pec. Fruit. ast. edi.",
+    "id": "crat-gus-aria",
     "index": 765
   },
   {
-    "botanical": "CRATZEGUS COCCINEA",
+    "botanical": "CRATÆGUS COCCINEA",
     "english": [],
     "parts": [
       "leaves",
@@ -10488,12 +10488,12 @@
       "Tonic",
       "Expectorant"
     ],
-    "raw": "CRATZEGUS COCCINEA. Hawthorn. \nBark and Leaves. ton. exp. Fruit. edi. ton.",
-    "id": "cratzegus-coccinea",
+    "raw": "CRATÆGUS COCCINEA. Hawthorn. \nBark and Leaves. ton. exp. Fruit. edi. ton.",
+    "id": "crat-gus-coccinea",
     "index": 766
   },
   {
-    "botanical": "CRATZGUS CRUS-GALLI",
+    "botanical": "CRATÆGUS CRUS-GALLI",
     "english": [],
     "parts": [
       "leaves"
@@ -10501,12 +10501,12 @@
     "properties": [
       "Pectoral"
     ],
-    "raw": "CRATZGUS CRUS-GALLI. White Cockspur Thorn. White Thorn. \nLeaves. pec.",
-    "id": "cratzgus-crus-galli",
+    "raw": "CRATÆGUS CRUS-GALLI. White Cockspur Thorn. White Thorn. \nLeaves. pec.",
+    "id": "crat-gus-crus-galli",
     "index": 767
   },
   {
-    "botanical": "CRATZEGUS OXYACANTHUS",
+    "botanical": "CRATÆGUS OXYACANTHUS",
     "english": [],
     "parts": [
       "fruit"
@@ -10514,20 +10514,20 @@
     "properties": [
       "Astringent"
     ],
-    "raw": "CRATZEGUS OXYACANTHUS. English Hawthorn. Noble Epine. Quickset. Thorn Apple Tree. May Tree. White Thorn. Hawthorn. \nFruit. Called Haws. ast.",
-    "id": "cratzegus-oxyacanthus",
+    "raw": "CRATÆGUS OXYACANTHUS. English Hawthorn. Noble Epine. Quickset. Thorn Apple Tree. May Tree. White Thorn. Hawthorn. \nFruit. Called Haws. ast.",
+    "id": "crat-gus-oxyacanthus",
     "index": 768
   },
   {
-    "botanical": "CRATZVA GYNANDRA",
+    "botanical": "CRATÆVA GYNANDRA",
     "english": [],
     "parts": [
       "root",
       "bark"
     ],
     "properties": [],
-    "raw": "CRATZVA GYNANDRA. Garlic Pear. \nBark of Root. Said to blister.",
-    "id": "cratzva-gynandra",
+    "raw": "CRATÆVA GYNANDRA. Garlic Pear. \nBark of Root. Said to blister.",
+    "id": "crat-va-gynandra",
     "index": 769
   },
   {
@@ -10888,7 +10888,7 @@
       "Tonic",
       "Vulnerary"
     ],
-    "raw": "CUNILA MARIANA. Dittamy. Stonemint. Mountain Dittany. Wild Basil. American Dittany. Sweet Horsemint. High Pennyroyal. American Mountain Dittany. \nHerb. sti. ner. sud. ton. vul.",
+    "raw": "CUNILA MARIANA. Dittany. Stonemint. Mountain Dittany. Wild Basil. American Dittany. Sweet Horsemint. High Pennyroyal. American Mountain Dittany. \nHerb. sti. ner. sud. ton. vul.",
     "id": "cunila-mariana",
     "index": 794
   },
@@ -11039,7 +11039,7 @@
     "index": 805
   },
   {
-    "botanical": "CUSCUTA EUROPZA",
+    "botanical": "CUSCUTA EUROPÆA",
     "english": [],
     "parts": [],
     "properties": [
@@ -11047,8 +11047,8 @@
       "Deobstruent",
       "Forage"
     ],
-    "raw": "CUSCUTA EUROPZA. Greater Dodder. Hell Weed. Flax Vine. Flax Drop. Flax Weed. Strangle Tare. \nJuice. pur. deo. For Itch.",
-    "id": "cuscuta-europza",
+    "raw": "CUSCUTA EUROPÆA. Greater Dodder. Hell Weed. Flax Vine. Flax Drop. Flax Weed. Strangle Tare. \nJuice. pur. deo. For Itch.",
+    "id": "cuscuta-europ-a",
     "index": 806
   },
   {
@@ -11750,14 +11750,14 @@
     "index": 857
   },
   {
-    "botanical": "DIONZA MUSCIPULA",
+    "botanical": "DIONÆA MUSCIPULA",
     "english": [],
     "parts": [],
     "properties": [
       "Insecticide"
     ],
-    "raw": "DIONZA MUSCIPULA. Venus Flytrap. \nPlant. ins.",
-    "id": "dionza-muscipula",
+    "raw": "DIONÆA MUSCIPULA. Venus Flytrap. \nPlant. ins.",
+    "id": "dion-a-muscipula",
     "index": 858
   },
   {
@@ -12290,7 +12290,7 @@
     "index": 898
   },
   {
-    "botanical": "EPIGZA REPENS",
+    "botanical": "EPIGÆA REPENS",
     "english": [],
     "parts": [
       "leaves",
@@ -12300,8 +12300,8 @@
       "Diuretic",
       "Astringent"
     ],
-    "raw": "EPIGZA REPENS. Trailing Arbutus. Winter Pink. Gravel Weed. Mountain Pink. Ground Laurel. May Flower. Gravel Plant. \nLeaves. diu. ast. As Uva Ursi.",
-    "id": "epigza-repens",
+    "raw": "EPIGÆA REPENS. Trailing Arbutus. Winter Pink. Gravel Weed. Mountain Pink. Ground Laurel. May Flower. Gravel Plant. \nLeaves. diu. ast. As Uva Ursi.",
+    "id": "epig-a-repens",
     "index": 899
   },
   {
@@ -12693,12 +12693,12 @@
     "index": 928
   },
   {
-    "botanical": "ERYTHRZA CHILENSIS",
+    "botanical": "ERYTHRÆA CHILENSIS",
     "english": [],
     "parts": [],
     "properties": [],
-    "raw": "ERYTHRZA CHILENSIS. Centaury of Chili. \nPlant. A mild tonic.",
-    "id": "erythrza-chilensis",
+    "raw": "ERYTHRÆA CHILENSIS. Centaury of Chili. \nPlant. A mild tonic.",
+    "id": "erythr-a-chilensis",
     "index": 929
   },
   {
@@ -13375,7 +13375,7 @@
       "Emetic",
       "Purgative"
     ],
-    "raw": "EXOSTEMMA FLORIBUNDA. St. Lucia Bark. Caribzan Bark. \nBark. dra. eme. pur.",
+    "raw": "EXOSTEMMA FLORIBUNDA. St. Lucia Bark. Caribæan Bark. \nBark. dra. eme. pur.",
     "id": "exostemma-floribunda",
     "index": 981
   },
@@ -13405,7 +13405,7 @@
     "properties": [
       "Febrifuge"
     ],
-    "raw": "EXOSTEMMA SOUZANUM. Quinguinia de Plantri. \nBark. bitter feb.",
+    "raw": "EXOSTEMMA SOUZANUM. Quinguinia de piantri. \nBark. bitter feb.",
     "id": "exostemma-souzanum",
     "index": 983
   },
@@ -13541,7 +13541,7 @@
     "english": [],
     "parts": [],
     "properties": [],
-    "raw": "FICUS INDICA. Banyan Tree. Indian is. Tree. \nYields Lac and India Rubber.",
+    "raw": "FICUS INDICA. Banyan Tree. Indian Fig Tree. \nYields Lac and India Rubber.",
     "id": "ficus-indica",
     "index": 993
   },
@@ -13964,7 +13964,7 @@
     "index": 1022
   },
   {
-    "botanical": "GALIUM CIRCZZANS",
+    "botanical": "GALIUM CIRCÆZANS",
     "english": [],
     "parts": [
       "herb"
@@ -13973,8 +13973,8 @@
       "Demulcent",
       "Diuretic"
     ],
-    "raw": "GALIUM CIRCZZANS. Wild Liquorice. \nHerb. dem. diu.",
-    "id": "galium-circzzans",
+    "raw": "GALIUM CIRCÆZANS. Wild Liquorice. \nHerb. dem. diu.",
+    "id": "galium-circ-zans",
     "index": 1023
   },
   {
@@ -15710,7 +15710,7 @@
     "english": [],
     "parts": [],
     "properties": [],
-    "raw": "HIBISCUS PALUSTRIS. Marsh Hibiscus. \nAnalogous to Althza Officinalis.",
+    "raw": "HIBISCUS PALUSTRIS. Marsh Hibiscus. \nAnalogous to Althæa Officinalis.",
     "id": "hibiscus-palustris",
     "index": 1151
   },
@@ -16736,7 +16736,7 @@
     "index": 1224
   },
   {
-    "botanical": "IRIDZA EDULIS",
+    "botanical": "IRIDÆA EDULIS",
     "english": [
       "A Seaweed."
     ],
@@ -16745,8 +16745,8 @@
       "Anthelmintic",
       "Saline"
     ],
-    "raw": "IRIDZA EDULIS. Red Dulse. (A Seaweed.)\nPlant. edi. ant. sal.",
-    "id": "iridza-edulis",
+    "raw": "IRIDÆA EDULIS. Red Dulse. (A Seaweed.)\nPlant. edi. ant. sal.",
+    "id": "irid-a-edulis",
     "index": 1225
   },
   {
@@ -18080,7 +18080,7 @@
     "index": 1323
   },
   {
-    "botanical": "LEPIDIUM WIRGEINICA",
+    "botanical": "LEPIDIUM VIRGINICA",
     "english": [],
     "parts": [
       "leaves"
@@ -18090,8 +18090,8 @@
       "Diuretic",
       "Anti-scorbutic"
     ],
-    "raw": "LEPIDIUM WIRGEINICA. Pepper Cress. Wild Pepper Cress. American Water Cress. \nLeaves. pun. diu. alt. a-sco.",
-    "id": "lepidium-wirgeinica",
+    "raw": "LEPIDIUM VIRGINICA. Pepper Cress. Wild Pepper Cress. American Water Cress. \nLeaves. pun. diu. alt. a-sco.",
+    "id": "lepidium-virginica",
     "index": 1324
   },
   {
@@ -19223,7 +19223,7 @@
     "index": 1407
   },
   {
-    "botanical": "LYSIMACHIA WULGARIS",
+    "botanical": "LYSIMACHIA VULGARIS",
     "english": [],
     "parts": [
       "herb"
@@ -19232,8 +19232,8 @@
       "Astringent",
       "Expectorant"
     ],
-    "raw": "LYSIMACHIA WULGARIS. Yellow Loose Strife. Loose Strife. Yellow Willow. Yellow Willow Herb. \nHerb. ast. exp.",
-    "id": "lysimachia-wulgaris",
+    "raw": "LYSIMACHIA VULGARIS. Yellow Loose Strife. Loose Strife. Yellow Willow. Yellow Willow Herb. \nHerb. ast. exp.",
+    "id": "lysimachia-vulgaris",
     "index": 1408
   },
   {
@@ -19450,7 +19450,7 @@
       "root"
     ],
     "properties": [],
-    "raw": "MALVA ALCEA. Vervain Mallow. \nRoot. As Althza Officinalis.",
+    "raw": "MALVA ALCEA. Vervain Mallow. \nRoot. As Althæa Officinalis.",
     "id": "malva-alcea",
     "index": 1425
   },
@@ -29974,7 +29974,7 @@
       "folia"
     ],
     "properties": [],
-    "raw": "SPIRÆA OPULIFOLIA. Nine Bark. \nPlant. (Analogous to Spireza Tomentosa.)",
+    "raw": "SPIRÆA OPULIFOLIA. Nine Bark. \nPlant. (Analogous to Spireæa Tomentosa.)",
     "id": "spir-a-opulifolia",
     "index": 2202
   },
@@ -31519,12 +31519,12 @@
     "index": 2317
   },
   {
-    "botanical": "TRIENTALIS EUROPZA",
+    "botanical": "TRIENTALIS EUROPÆA",
     "english": [],
     "parts": [],
     "properties": [],
-    "raw": "TRIENTALIS EUROPZA. Chick Wintergreen. Wintergreen Chickweed.",
-    "id": "trientalis-europza",
+    "raw": "TRIENTALIS EUROPÆA. Chick Wintergreen. Wintergreen Chickweed.",
+    "id": "trientalis-europ-a",
     "index": 2318
   },
   {
@@ -32142,7 +32142,7 @@
     "properties": [
       "Astringent"
     ],
-    "raw": "VACCINIUM ARBOREUM. Farkleberry. \nBark and Fruit. ast. In Apthza.",
+    "raw": "VACCINIUM ARBOREUM. Farkleberry. \nBark and Fruit. ast. In Apthæa.",
     "id": "vaccinium-arboreum",
     "index": 2363
   },
