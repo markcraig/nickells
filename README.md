@@ -8,7 +8,7 @@ The Internet Archive holds scanned copies of the book and the Optical Character 
 
 The [manually "corrected" OCR text file](./jmnickellsbotani00nick_edited.txt) removes covers, front matter, indexes (including the index of German names), and back matter suggestions for gathering and preparing botanicals and advertisements. It also removes the numbers of the entries, as they're only really useful with the indexes. In the reference, each entry starts with the Latin name(s), optionally followed by common English name(s), the part(s) of the plant used with abbreviations for the part's medical properties, and other information.
 
-If Nickell were distributing this information today, he might offer a web page or mobile application to facilitate full-text search. The application could show the available information by type, such as "Botanical name(s)", "English name(s)", "Part(s) used with their medical properties", and "Additional information". The web page or mobile application could use a lookahead search to find and display entries that match what the user types.
+If Nickell were distributing this information today, he might offer a web page or mobile application to facilitate full-text search. The application could show the available information by type, such as "Botanical name(s)", "English name(s)", "Part(s) used" (with their medical properties), and "Additional information". The web page or mobile application could use a lookahead search to find and display entries that match what the user types.
 
 Restoring the German names to the entries from the German name index in the original book is left for a later time.
 
@@ -16,7 +16,7 @@ Restoring the German names to the entries from the German name index in the orig
 
 The application:
 
-- `parser/generate_json.js` — Node.js parser that reads jmnickellsbotani00nick_edited.txt, splits entries on blank lines, extracts fields and maps medical-property abbreviations to full names (`propertiesMap`), and writes `web/entries.json`.
+- `parser/generate_json.js` — Node.js parser that reads `jmnickellsbotani00nick_edited.txt`, splits entries on blank lines, extracts fields and maps medical-property abbreviations to full names (`propertiesMap`), and writes `web/entries.json`.
 - `web/index.html`, `web/app.js`, `web/styles.css` — a small static frontend that loads entries.json and provides client-side full-text search using [Fuse.js](https://www.fusejs.io); shows botanical and common names, parts, and expanded property names.
 - `package.json` with a "build" script that runs the parser and generates `web/entries.json`.
 
@@ -59,7 +59,6 @@ Build & preview (local)
 
 ##  Notes & next steps
 - The site is fully static; search runs in the browser (Fuse.js).
-- The parser makes simple heuristics — OCR artifacts may require improving extraction rules. Suggestions: tighten token matching for properties (handle OCR variants), extract multi-line English names, or split entries into more structured fields.
-- If you want, next actions can include UI improvements (badges, filters), CI for automated builds and deploys, or parser refinement.
+- The parser makes simple heuristics — OCR artifacts may require improving extraction rules.
 
 Co-authored-by: Copilot <223556219+Copilot@users.noreply.github.com>

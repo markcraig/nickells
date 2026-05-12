@@ -1,5 +1,6 @@
 <!doctype html>
 <html lang="en">
+
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width,initial-scale=1">
@@ -7,21 +8,24 @@
   <link rel="stylesheet" href="styles.css">
   <link rel="stylesheet" href="fork.css">
 </head>
+
 <body>
   <main>
     <h1>Nickell's Botanical Ready Reference</h1>
     <input id="search" placeholder="Search botanical or common names..." autofocus autocomplete="off">
-    <div id="results"></div>
     <div id="detail" class="hidden"></div>
+    <div id="results"></div>
     <div class="fork-me-wrapper">
-    <div class="fork-me">
+      <div class="fork-me">
         <a class="fork-me-link" href="https://github.com/markcraig/nickells">
-            <span class="fork-me-text">Fork Me On GitHub</span>
+          <span class="fork-me-text">Fork Me On GitHub</span>
         </a>
+      </div>
     </div>
-</div>
+    <div id="about"><p>Read <a href="https://github.com/markcraig/nickells/blob/main/README.md" target="_blank">about this project.</a></p></div>
   </main>
   <script src="https://cdn.jsdelivr.net/npm/fuse.js@6.6.2/dist/fuse.min.js"></script>
   <script src="app.js"></script>
 </body>
+
 </html>
