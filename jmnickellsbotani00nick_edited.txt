@@ -2340,7 +2340,7 @@ Plant. acr. eme. dra. cat. Dyes Purple.
 CRUCCATA. Crosswort.
 Herb. pec. exp.
 
-CUCUBALUS BEHEN. Spatiing Poppy. Bladder Campion. Sea Pink. Campion Pink.
+CUCUBALUS BEHEN. Spathing Poppy. Bladder Campion. Sea Pink. Campion Pink.
 Plant. ale. cor.
 
 CUCUMIS COLOCYNTHIS. Colocynth. Bitter Cucumber. Bitter Apple. Bitter Gourd. Colocynth Fruit. Colocynth Apple.
@@ -4869,7 +4869,7 @@ Tuber. Used as Food. Juice. ast. aci.
 OXALIS VIOLACEA. Violet Sorrel.
 Variety of Oxalis Acetosella.
 
-OXYCOCCOS HIISPIDULA. White Cranberry. Sweet Berry. White Pollom.
+OXYCOCCOS HISPIDULA. White Cranberry. Sweet Berry. White Pollom.
 Fruit. aci. ref.
 
 OXYCOCCOS PALUSTRIS. Moorberry. Marshwort.
@@ -5825,7 +5825,7 @@ Petals. ton. ast. opt. In Conserve.
 ROSA MOSCHATA. Musk Rose.
 Yields Otto of Rose.
 
-ROSA PARVIFLORA. Wiid Rose.
+ROSA PARVIFLORA. Wild Rose.
 Flower. ast. ton. opt.
 
 ROSA RUBIGINOSA. Sweet Brier. Wild Brier. Eglantine. Eglantine Rose. Sweet Brier Rose.
@@ -6729,7 +6729,7 @@ TECOMA PENTAPHYLLA. Jamaica Boxwood.
 
 TECTONIA GRANDIS. Teakwood Tree. Teak Oak.
 
-TELFARIA PEDATA. (Zanzebar Species of Jolifiia.) Zanzebar Joliffia.
+TELFARIA PEDATA. (Zanzebar Species of Joliffia.) Zanzebar Joliffia.
 Fruit-pulp. bit. Seed. Yields Bland Oil.
 
 TEPHROSIA APOLLINEA. Silver-leaved Senna.
@@ -7267,7 +7267,7 @@ Bark. As Xanthoxylum Fraxineum (milder).
 XANTHOXYLUM CLAVUS HERCULIS. West India Yellow Prickley Ash. Hercules Club. Yellow Hercules. Prickley Yellow Wood. West India Yellow Wood. Yellow Prickley Ash.
 Bark. sia. sud. diu. pun. a-spa.
 
-XANTHOXYLUM FRAXINEUM. Northern Prickley Ash. Prickley Ash. Toothache Tree. Toothache Bush. Yellow Wood. Suter Berry. Toothache Bark. Yellow Wood Berries. Pelliiory Bark. Sutterberry Bark. Prickley Ash Berries.
+XANTHOXYLUM FRAXINEUM. Northern Prickley Ash. Prickley Ash. Toothache Tree. Toothache Bush. Yellow Wood. Suter Berry. Toothache Bark. Yellow Wood Berries. Pellitory Bark. Sutterberry Bark. Prickley Ash Berries.
 Bark. pun. sti. sia. alt. ton.
 
 XERANTHEMUM ANNUUM. Purple Everlasting. Xyranthe.

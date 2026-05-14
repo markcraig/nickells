@@ -12697,7 +12697,7 @@
   {
     "botanical": "CUCUBALUS BEHEN",
     "english": [
-      "Spatiing Poppy",
+      "Spathing Poppy",
       "Bladder Campion",
       "Sea Pink",
       "Campion Pink"
@@ -12707,7 +12707,7 @@
     ],
     "xrefs": [],
     "infos": [],
-    "raw": "CUCUBALUS BEHEN. Spatiing Poppy. Bladder Campion. Sea Pink. Campion Pink.\nPlant. ale. cor.",
+    "raw": "CUCUBALUS BEHEN. Spathing Poppy. Bladder Campion. Sea Pink. Campion Pink.\nPlant. ale. cor.",
     "id": "cucubalus-behen",
     "index": 790
   },
@@ -26512,7 +26512,7 @@
     "index": 1639
   },
   {
-    "botanical": "OXYCOCCOS HIISPIDULA",
+    "botanical": "OXYCOCCOS HISPIDULA",
     "english": [
       "White Cranberry",
       "Sweet Berry",
@@ -26523,8 +26523,8 @@
     ],
     "xrefs": [],
     "infos": [],
-    "raw": "OXYCOCCOS HIISPIDULA. White Cranberry. Sweet Berry. White Pollom.\nFruit. aci. ref.",
-    "id": "oxycoccos-hiispidula",
+    "raw": "OXYCOCCOS HISPIDULA. White Cranberry. Sweet Berry. White Pollom.\nFruit. aci. ref.",
+    "id": "oxycoccos-hispidula",
     "index": 1640
   },
   {
@@ -31731,14 +31731,14 @@
   {
     "botanical": "ROSA PARVIFLORA",
     "english": [
-      "Wiid Rose"
+      "Wild Rose"
     ],
     "parts": [
       "Flower (Astringent; Tonic; Opthalmicum)"
     ],
     "xrefs": [],
     "infos": [],
-    "raw": "ROSA PARVIFLORA. Wiid Rose.\nFlower. ast. ton. opt.",
+    "raw": "ROSA PARVIFLORA. Wild Rose.\nFlower. ast. ton. opt.",
     "id": "rosa-parviflora",
     "index": 1962
   },
@@ -36634,7 +36634,7 @@
   {
     "botanical": "TELFARIA PEDATA",
     "english": [
-      "(Zanzebar Species of Jolifiia",
+      "(Zanzebar Species of Joliffia",
       ") Zanzebar Joliffia"
     ],
     "parts": [
@@ -36643,7 +36643,7 @@
     ],
     "xrefs": [],
     "infos": [],
-    "raw": "TELFARIA PEDATA. (Zanzebar Species of Jolifiia.) Zanzebar Joliffia.\nFruit-pulp. bit. Seed. Yields Bland Oil.",
+    "raw": "TELFARIA PEDATA. (Zanzebar Species of Joliffia.) Zanzebar Joliffia.\nFruit-pulp. bit. Seed. Yields Bland Oil.",
     "id": "telfaria-pedata",
     "index": 2271
   },
@@ -39565,7 +39565,7 @@
       "Suter Berry",
       "Toothache Bark",
       "Yellow Wood Berries",
-      "Pelliiory Bark",
+      "Pellitory Bark",
       "Sutterberry Bark",
       "Prickley Ash Berries"
     ],
@@ -39574,7 +39574,7 @@
     ],
     "xrefs": [],
     "infos": [],
-    "raw": "XANTHOXYLUM FRAXINEUM. Northern Prickley Ash. Prickley Ash. Toothache Tree. Toothache Bush. Yellow Wood. Suter Berry. Toothache Bark. Yellow Wood Berries. Pelliiory Bark. Sutterberry Bark. Prickley Ash Berries.\nBark. pun. sti. sia. alt. ton.",
+    "raw": "XANTHOXYLUM FRAXINEUM. Northern Prickley Ash. Prickley Ash. Toothache Tree. Toothache Bush. Yellow Wood. Suter Berry. Toothache Bark. Yellow Wood Berries. Pellitory Bark. Sutterberry Bark. Prickley Ash Berries.\nBark. pun. sti. sia. alt. ton.",
     "id": "xanthoxylum-fraxineum",
     "index": 2453
   },
