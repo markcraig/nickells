@@ -74,13 +74,13 @@ async function init() {
 
   searchInput.addEventListener('input', () => {
     const q = searchInput.value.trim();
-    if (!q) { resultsDiv.innerHTML = '<p>Type to search</p>'; return; }
+    if (!q) { const defaultList = entries.slice(0,7).map(e => ({ item: e })); renderList(defaultList); return; }
     const results = fuse.search(q);
     renderList(results);
   });
 
   // initial message
-  resultsDiv.innerHTML = '<p>Type to search</p>';
+  const defaultList = entries.slice(0,7).map(e => ({ item: e })); renderList(defaultList);
 }
 
 init().catch(err => {
