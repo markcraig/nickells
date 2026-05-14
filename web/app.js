@@ -11,18 +11,36 @@ async function init() {
   const resultsDiv = document.getElementById('results');
   const detailDiv = document.getElementById('detail');
 
+  let currentResults = [];
+  let currentPage = 0;
+  const pageSize = 7;
+
   function renderList(list) {
+    currentResults = list || [];
+    currentPage = 0;
+    renderPage();
+  }
+
+  function renderPage() {
     resultsDiv.innerHTML = '';
-    if (list.length === 0) { resultsDiv.innerHTML = '<p>No results</p>'; return; }
+    const total = currentResults.length;
+    if (total === 0) { resultsDiv.innerHTML = '<p>No results</p>'; return; }
+
+    const start = currentPage * pageSize;
+    const end = Math.min(start + pageSize, total);
+
+    const info = document.createElement('div');
+    info.className = 'results-info';
+    info.innerHTML = `<p>Showing ${start + 1}–${end} of ${total}</p>`;
+    resultsDiv.appendChild(info);
+
     const ul = document.createElement('ul');
-    list.slice(0, 50).forEach(item => {
+    currentResults.slice(start, end).forEach(item => {
       const li = document.createElement('li');
-      // show english names if available; otherwise show a 50-char preview from the first raw line after the botanical name
       function previewText(it) {
         if (it.english && it.english.length) return it.english.join(', ');
         const firstLine = (it.raw || '').split('\n')[0] || '';
         const secondLine = (it.raw || '').split('\n')[1]?.trim() || '';
-        // remove leading botanical name if present
         try {
           const botanicalSafe = it.botanical.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
           const botanicalRegex = new RegExp('^' + botanicalSafe, 'i');
@@ -44,6 +62,20 @@ async function init() {
       ul.appendChild(li);
     });
     resultsDiv.appendChild(ul);
+
+    const controls = document.createElement('div');
+    controls.className = 'pagination-controls';
+    const prev = document.createElement('button');
+    prev.textContent = 'Previous';
+    prev.disabled = currentPage === 0;
+    prev.addEventListener('click', () => { if (currentPage > 0) { currentPage--; renderPage(); } });
+    const next = document.createElement('button');
+    next.textContent = 'Next';
+    next.disabled = end >= total;
+    next.addEventListener('click', () => { if (end < total) { currentPage++; renderPage(); } });
+    controls.appendChild(prev);
+    controls.appendChild(next);
+    resultsDiv.appendChild(controls);
   }
 
   function renderPart(part) {
@@ -74,13 +106,13 @@ async function init() {
 
   searchInput.addEventListener('input', () => {
     const q = searchInput.value.trim();
-    if (!q) { const defaultList = entries.slice(0,7).map(e => ({ item: e })); renderList(defaultList); return; }
+    if (!q) { const defaultList = entries.map(e => ({ item: e })); renderList(defaultList); return; }
     const results = fuse.search(q);
     renderList(results);
   });
 
   // initial message
-  const defaultList = entries.slice(0,7).map(e => ({ item: e })); renderList(defaultList);
+  const defaultList = entries.map(e => ({ item: e })); renderList(defaultList);
 }
 
 init().catch(err => {
